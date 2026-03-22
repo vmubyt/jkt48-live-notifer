@@ -14,6 +14,10 @@ Bot notifikasi live JKT48 untuk Showroom dan IDN.
 ## Instalasi
 
 1. Clone repository ini
+ ```bash
+git clone https://github.com/vmubyt/jkt48-live-notifer.git
+cd jkt48-live-notifer.git
+ ```
 2. Install dependencies:
 ```bash
 npm install

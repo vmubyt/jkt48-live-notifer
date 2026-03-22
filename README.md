@@ -71,4 +71,8 @@ npm start
   name: String,
   date: Date
 }
-``` 
+```
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah MIT License. Lihat file LICENSE untuk detail lebih lanjut.
